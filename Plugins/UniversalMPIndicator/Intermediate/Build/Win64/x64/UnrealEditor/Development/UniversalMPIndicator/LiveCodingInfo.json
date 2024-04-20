@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UniversalMPIndicator.cpp.obj": [
+			"UMPI_DistanceText_Struct.gen.cpp.obj",
+			"UMPI_Effect_Struct.gen.cpp.obj",
+			"UMPI_IndicatorSettings_Struct.gen.cpp.obj",
+			"UMPI_IndicatorType_Struct.gen.cpp.obj",
+			"UMPI_Indicator_Type_Enum.gen.cpp.obj",
+			"UMPI_OffScreenRotationRule_Enum.gen.cpp.obj",
+			"UMPI_OffScreen_Texture_Struct.gen.cpp.obj",
+			"UMPI_OnScreenOpacity_Struct.gen.cpp.obj",
+			"UMPI_OnScreenPulse_Struct.gen.cpp.obj",
+			"UMPI_OnScreenRotation_Struct.gen.cpp.obj",
+			"UMPI_OnScreenScaleSwift_Struct.gen.cpp.obj",
+			"UMPI_OnScreen_Texture_Struct.gen.cpp.obj",
+			"UMPI_ScreenIndicator_Component.gen.cpp.obj",
+			"UMPI_ScreenIndicator_WidgetBase.gen.cpp.obj",
+			"UniversalMPIndicator.init.gen.cpp.obj",
+			"UMPI_ScreenIndicator_Component.cpp.obj",
+			"UMPI_ScreenIndicator_WidgetBase.cpp.obj",
+			"UniversalMPIndicator.cpp.obj"
+		]
+	}
+}

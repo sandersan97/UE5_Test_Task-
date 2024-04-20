@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UniversalMPIndicator-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\corne\Desktop\UE5_Test_Task\Intermediate\Build\Win64\x64\UE5_Test_TaskEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\corne\Desktop\UE5_Test_Task\Plugins\UniversalMPIndicator\Intermediate\Build\Win64\x64\UnrealEditor\Development\UniversalMPIndicator\Module.UniversalMPIndicator.cpp.obj"
+"C:\Users\corne\Desktop\UE5_Test_Task\Plugins\UniversalMPIndicator\Intermediate\Build\Win64\x64\UnrealEditor\Development\UniversalMPIndicator\Default.rc2.res"
+/OUT:"C:\Users\corne\Desktop\UE5_Test_Task\Plugins\UniversalMPIndicator\Intermediate\Build\Win64\x64\UnrealEditor\Development\UniversalMPIndicator\UnrealEditor-UniversalMPIndicator-0010.lib"

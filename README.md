@@ -1,0 +1,2 @@
+# UE5_Test_Task (Midnight_Works)
+ This is a test task result for work, created with unreal engine 5.3 C++ and blueprints, all used inside of this project are created by me expect meshes, music, ambient and UI sounds, this items which are not created by me is buyed from Unreal Marketplace and is not for yours personal usage or selling, only for study purpose. All creation process and technic details are documented and included in project files.
